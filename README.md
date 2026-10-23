@@ -8,6 +8,21 @@ plus an indicator that keeps animating smoothly, even with hundreds of pages.
 Works on Android, iOS, web, macOS, Windows and Linux (pure Dart, no native
 code).
 
+## Screenshots
+
+<p>
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/pattern_01.png" width="180" alt="Default carousel with the smooth sliding dots indicator">
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/pattern_02.png" width="180" alt="Image carousel with network images">
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/pattern_10.png" width="180" alt="Enlarged center page">
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/pattern_15.png" width="180" alt="Free scroll and vertical carousel">
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/pattern_19.png" width="180" alt="Indicator on the right and overlaid">
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/pattern_21.png" width="180" alt="Gradient, bordered and square dots">
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/pattern_23.png" width="180" alt="Custom dot builder and page counter">
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/pattern_27.png" width="180" alt="Carousel controller">
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/pattern_32.png" width="180" alt="Dots placed anywhere">
+  <img src="https://raw.githubusercontent.com/mehediSecondProject/carousel_slider_dots/main/screenshots/playground_01.png" width="180" alt="Playground with every option">
+</p>
+
 ## Why another carousel?
 
 Most dot indicators either show one dot per page (too many for long lists)

@@ -1,3 +1,7 @@
+## 1.0.3
+
+* Added screenshots to the README.
+
 ## 1.0.2
 
 * Added screenshots.
