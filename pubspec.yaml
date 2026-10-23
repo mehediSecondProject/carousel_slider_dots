@@ -4,9 +4,9 @@ description: >-
   infinite scroll, enlarge center page, vertical slider, controller and fully
   customizable page indicator.
 version: 1.0.0
-# homepage: https://github.com/<your-account>/carousel_slider_dots
-# repository: https://github.com/<your-account>/carousel_slider_dots
-# issue_tracker: https://github.com/<your-account>/carousel_slider_dots/issues
+homepage: https://github.com/mehediSecondProject/carousel_slider_dots
+repository: https://github.com/mehediSecondProject/carousel_slider_dots
+issue_tracker: https://github.com/mehediSecondProject/carousel_slider_dots/issues
 
 topics:
   - carousel
