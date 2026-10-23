@@ -3,7 +3,7 @@ description: >-
   Carousel slider for Flutter with a smooth animated dots indicator. Auto play,
   infinite scroll, enlarge center page, vertical slider, controller and fully
   customizable page indicator.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/mehediSecondProject/carousel_slider_dots
 repository: https://github.com/mehediSecondProject/carousel_slider_dots
 issue_tracker: https://github.com/mehediSecondProject/carousel_slider_dots/issues
@@ -14,6 +14,28 @@ topics:
   - carousel-slider
   - page-indicator
   - dots-indicator
+
+screenshots:
+  - description: Default carousel with the smooth sliding dots indicator.
+    path: screenshots/pattern_01.png
+  - description: Image carousel with network images and a custom aspect ratio.
+    path: screenshots/pattern_02.png
+  - description: Enlarged center page with scale and height strategies.
+    path: screenshots/pattern_10.png
+  - description: Free scroll with bounce and a vertical carousel.
+    path: screenshots/pattern_15.png
+  - description: Indicator on the right and overlaid on the carousel.
+    path: screenshots/pattern_19.png
+  - description: Gradient, bordered and square dots.
+    path: screenshots/pattern_21.png
+  - description: Custom dot builder and a page counter indicator.
+    path: screenshots/pattern_23.png
+  - description: Carousel controller with next, previous, jump and auto play.
+    path: screenshots/pattern_27.png
+  - description: Dots placed below, above, beside the list or on the card.
+    path: screenshots/pattern_32.png
+  - description: Playground for trying every carousel option live.
+    path: screenshots/playground_01.png
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

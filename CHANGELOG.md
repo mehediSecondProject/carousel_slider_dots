@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Added screenshots.
+
 ## 1.0.1
 
 * Renamed the example app package id to `com.carousel`.
